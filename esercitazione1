@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> elementi fondamentali</title>
+</head>
+<body>
+<h1>elementi fondamentali html </h1>
+
+  <p>Questa pagina utilizza gli elementi fondamentali di html</p>
+  <p> Questa è un'esercitazioen da consegnare su github </p>
+  <h2> Per la struttura della pagina sono stati utilizzati i seguindi tag: </h2>
+  <ol>
+  	<li> doctype html </li>
+	<li> html</li>
+    <li>head</li>
+    <li>body</li>
+ </ol>   
+ <h3> I tag utilizzati per la personalizzazione della pagina sono: </h3>
+
+<ul>
+<li> i tag h1, h2, h3 per inserire dei titoli </li>
+<li> lista ordinata </li>
+<li> lista non ordinata </li>
+<li> img (alt)</li>
+<li> a per i collegamenti </li>
+<li> form, input e textarea </li>
+<li> style, head </li> 
+<li> pagina responsive </li>
+</ul>
+<p> ecco lo scorso campione d'italia </p>
+<img src="napoli.jpg" alt="forza napoli">
+<p> </p>
+<p> &nbsp </p>
+<a href="https://configurator.porsche.com/it-IT/model/992810?options=00480.0I2.0N5.0P9.0PA.0TC.1A.1BV.1G8.1LX.1N3.1NG.1X2.1XQ.24901.24905.24906.24907.25889.2C6.2D0.2UH.2V1.2W6.3B5.3FF.3HA.3QT.4GP.4L2.4UF.5HC.5KS.5TX.5XH.6A7.6BA.6E5.6FG.6NN.6Q5.6RD.6XA.72.7AK.7I2.7K3.7M4.7UG.7V3.8JU.8LH.8T1.8VH.9AD.9JD.9VL.9WT.ABW.AKE.ASV.AVC.BYB.BYU.BZD.C2Q.FX8.G1C.GH3.IPEC.J2A.KA2.KQ3.M1P.P14.P19.Q4Q.QH1.QJ7.QQ2.QV3.UD1.UI2.UP3.UX6.VC2.VR0.VW7&tw=TW_PAG_BYB_20231113_GzHPzzCd_Teppich_8YR_Leder_YO2_Naht_39E_Kat2&variants=00480_BG.00480_BV.00480_BV.24901_1H.24905_1H.24906_1H.24907_1H.25889_1H.AVC_4A.AVC_4A#section-summary">ecco cosa voglio per natale </a>
+<p> &nbsp </p>
+<a href="https://www.youtube.com/watch?v=Yo80DlhzX68"> Il miglior giocatore della storia </a>
+<p> &nbsp </p>
+<a href="https://www.tuttocampo.it/Toscana/News/1603007/arbitro-diciottenne-aggredito-da-un-dirigente-fugge-dal-terreno-di-gioco"> io non ho più parole, dico basta! </a>
+<p> &nbsp </p>
+ <form>
+ <p> Ti piace la musica? </p>
+ <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">no</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">si</label><br>
+  <p> &nbsp </p>
+  <label for="fname">Inserire la canzone preferita:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <input type="submit" value="conferma">
+  <p> &nbsp </p>
+  <label for="appt">Che ore sono?</label>
+  <input type="time" id="appt" name="appt">
+ 
+ 
+ 
+ </form>
+ 
+<p> lascia un feedback sul nuovo album di nello taver </p>
+<textarea name="message" rows="30" cols="70"></textarea>
+<input type="checkbox">
+ 
+ 
+</body>
+</html>
