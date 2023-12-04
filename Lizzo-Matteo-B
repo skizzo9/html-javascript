@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lizzo-Matteo</title>
+    <style>
+    body {
+    	background-color: lightgrey;
+    }
+    
+        h {
+            text-align:center;
+            color: red;
+            font-size: 35px;
+        }
+        
+        h1 {
+        	font-size: 18px;
+        
+        		
+        }
+        
+     </style>
+</head>
+<body>
+<h> &#127949 MOTOSPORTS &#127950</h>  <!-- domnda 3, titolo e intestazione e 14, utilizzo emoji-->
+
+    <h1>I motorsport, noto anche come corse automobilistiche, è uno sport emozionante e adrenalinico che coinvolge l'uso di veicoli motorizzati.</h1>
+
+<a> i motosports si possono dividere in due macro categorie:
+<a href="https://soldiefig.altervista.org/dueruote.html"/> DUE RUOTE <a/> e
+<a href="https://soldiefig.altervista.org/quattroruote.html"/target="_blank"> QUATTRO RUOTE <a/>
+<p>Le persone che corrono in moto gp sono dei veri e prorpi atleti, inoltre è uno tr agli sport più rischiosi ed emozionanti da fare. si è sottoposti a una forza g mostruosa e tanta adrenalina, sfrecciare a 300kmh non è da tutti </p>
+<a href="https://www.motogp.com/it"/ target="_blank"> <img src="motogp.jfif"/> <a/>
+
+<p> i piloti di formula drift invece sono dei veri e propri artisti del volante.</p>
+
+<p> queste sono le vetture che seecodno me sono migliori nel proprio settore </p>
+
+<table border="2">
+    <tr>
+        <th> tipo </th>
+        <th> cilindrata </th>
+        <th> campionato </th>
+    </tr>
+    
+    <tr>
+        <td> Desmosedici GP </td>
+        <td> 1000 </td>
+        <td> motogp </td>
+    </tr>
+
+    <tr>
+        <td> RB13 </td>
+        <td> 1200 </td>
+        <td> formula1 </td>
+    </tr>
+
+    <tr>
+        <td> supra </td>
+        <td> 1200 </td>
+        <td> formula drift </td>
+    </tr>
+
+
+</table>
+
+<form action="/action_page.php">
+  <label for="fname">nome:</label><br>
+  <input type="text" id="fname" name="fname" value="matteo"><br>
+  <label for="lname">cognome:</label><br>
+  <input type="text" id="lname" name="lname" value="lizzo"><br><br>
+  <input type="submit" value="conferma">
+</form>
+<p> </p>
+<form>
+  <input type="checkbox" id="veicolo1" name="veicolo 2" value="moto">
+  <label for="vehicle1"> motogp</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="macchina">
+  <label for="vehicle2"> formula1 </label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="drift">
+  <label for="vehicle3">formula drift</label>
+</form>
+<p> </p>
+<form>
+  <input type="radio" id="html" name="fav_language" value="pecco">
+  <label for="html">pecco</label><br>
+  <input type="radio" id="css" name="fav_language" value="verstappen">
+  <label for="css">verstappen</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="sinner">
+  <label for="javascript">sinner</label>
+</form>
+
+</body>
+</html>
+
+
+
+
